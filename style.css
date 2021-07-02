@@ -66,12 +66,12 @@ img{
   max-width: 600px;
  margin: 0 auto;
 }
-#tribute-info >h3{
-  text-align: center;
-margin: 90px 10px 30px 10px;
+  #headline {
+    margin: 90px 10px 30px 10px;
+    text-align: center;
 
-  font-size: 1.400rem;
-  font-weight: 700;
+    font-size: 1.400rem;
+    font-weight: 700;
   }
 
 ul{
